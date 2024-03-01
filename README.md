@@ -3,7 +3,7 @@
 <a href='https://www.instagram.com/feri.carnu/'><img align='left' alt="instagram" src="./assets/instagram.svg" height='18px'/></a>
 <a href='https://wa.me/40725192274?text='><img align='left' alt="whatsapp" src="./assets/whatsapp.svg" height='18px'/></a>
 </br></br>
-I am an `Electrical Engineering and Computers` student, asily adaptable to changing environment. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am an `Electrical Engineering and Computers` student, easily adaptable to changing environment. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
   
 ### 🧐 More About Me:
 
