@@ -1,18 +1,16 @@
-## Hi there 👋, I'm Ferencz!
-<a href='https://www.linkedin.com/in/ferencz-carnu//'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.instagram.com/feri.carnu/'><img align='left' alt="instagram" src="./assets/instagram.svg" height='18px'/></a>
-<a href='https://wa.me/40725192274?text='><img align='left' alt="whatsapp" src="./assets/whatsapp.svg" height='18px'/></a>
+## Hi there 👋, I'm Ferencz, friends call me Feri!
+<a href='https://www.linkedin.com/in/ferencz-carnu//'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='24px'/></a>
+<a href='https://www.instagram.com/feri.carnu/'><img align='left' alt="instagram" src="./assets/instagram.svg" height='24px'/></a>
+<a href='https://wa.me/40725192274?text='><img align='left' alt="whatsapp" src="./assets/whatsapp.svg" height='24px'/></a>
 </br></br>
-I am an `Electrical Engineering and Computers` student, easily adaptable to changing environment. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am an `Electrical Engineering and Computers` student, easily adaptable to changing environment. I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️. 
   
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on a Java chat application based on TCP/IP
-- 🌱 &nbsp; I’m currently learning Active Directory, Java server-side programming; 
+- 🌱 &nbsp; I’m currently learning Active Directory and Java server-side programming 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.instagram.com/feri.carnu/)
 - 📝 &nbsp; Checkout my [portfolio](https://vortexferi.github.io/portfolio/)
-
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.cplusplus.com" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
@@ -26,4 +24,4 @@ I am an `Electrical Engineering and Computers` student, easily adaptable to chan
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vortexferi&layout=compact&theme=dark&size_weight=1&count_weight=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vortexferi&layout=compact&theme=dark&size_weight=1&count_weight=0)
