@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ferencz, friends call me Feri!
-<a href='https://www.linkedin.com/in/ferencz-carnu//'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='24px'/></a>
+<a href='https://www.linkedin.com/in/ferencz-carnu/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='24px'/></a>
 <a href='https://www.instagram.com/feri.carnu/'><img align='left' alt="instagram" src="./assets/instagram.svg" height='24px'/></a>
 <a href='https://wa.me/40725192274?text='><img align='left' alt="whatsapp" src="./assets/whatsapp.svg" height='24px'/></a>
 </br></br>
@@ -9,7 +9,7 @@ I am an `Electrical Engineering and Computers` student, easily adaptable to chan
 
 - 🔭 &nbsp; I’m currently working on a Java chat application based on TCP/IP
 - 🌱 &nbsp; I’m currently learning Active Directory and Java server-side programming 
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.instagram.com/feri.carnu/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ferencz-carnu/)
 - 📝 &nbsp; Checkout my [portfolio](https://vortexferi.github.io/portfolio/)
 
 ### 🔨 Languages and Tools:
