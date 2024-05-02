@@ -6,8 +6,7 @@ I am an `Electrical Engineering and Computers` student, easily adaptable to chan
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a Java chat application based on TCP/IP
-- 🌱 &nbsp; I’m currently learning Active Directory and Java server-side programming 
+- 🌱 &nbsp; I’m currently learning C#/.Net 8
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ferencz-carnu/)
 - 📝 &nbsp; Checkout my [portfolio](https://vortexferi.github.io/portfolio/)
 
