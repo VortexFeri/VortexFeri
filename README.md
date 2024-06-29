@@ -45,4 +45,5 @@ I am an `Electrical Engineering and Computers` student, easily adaptable to chan
 
 <br>
 
-![Top Languages](https://github-readme-stats-gamma-tawny-85.vercel.app/api/top-langs/?username=vortexferi&layout=compact&theme=dark&size_weight=1&count_weight=0&cache_buster=1)
+[![Top Languages](https://github-readme-stats-gamma-tawny-85.vercel.app/api/top-langs/?username=vortexferi&layout=compact&theme=dark&cache_buster=10)](https://github.com/anuraghazra/github-readme-stats)
+
